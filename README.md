@@ -8,7 +8,7 @@ Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten
 
 Layout moet aan de volgende functionele eisen voldoen:
 
-* Er moet een homepage zijn waarop een kop te vinden is, samen met een menu, een lijst met minimaal 4 nieuwsberichten, een balk aan de zijkant met advertenties en een melding aan de onderkant van de pagina
+* Er moet een homepage zijn waarop een  kop te vinden is, samen met een menu, een lijst met minimaal 4 nieuwsberichten, een balk aan de zijkant met advertenties en een melding aan de onderkant van de pagina
 * Bij elk nieuws bericht staat een lees-meer link. Die opent een nieuwe pagina met een mooi opgemaakt nieuwsbericht in de zelfde layout
 * Elk artikel heeft een kopje, inleiding, afbeelding en een knop om door te klikken
 * De advertenties aan de zijkant zijn klikbaar en openen een nieuwe link
